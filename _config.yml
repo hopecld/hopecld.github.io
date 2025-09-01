@@ -1,0 +1,14 @@
+title: "The Singularity is near, and it's approaching exponentially."
+email: 
+description:
+baseurl: "" 
+url: "https://hopecld.github.io"
+twitter_username: 
+github_username:  
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+
